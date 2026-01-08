@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio2025Web/static/css/main.299b0182.css",
-    "main.js": "/Portfolio2025Web/static/js/main.6bde4f57.js",
-    "static/js/453.ececc0a5.chunk.js": "/Portfolio2025Web/static/js/453.ececc0a5.chunk.js",
-    "static/media/hero-bg.jpg": "/Portfolio2025Web/static/media/hero-bg.f76f283fb98f4c37cea0.jpg",
-    "static/media/project3.jpg": "/Portfolio2025Web/static/media/project3.9a45647f3f38c1e7024b.jpg",
-    "static/media/project2.jpg": "/Portfolio2025Web/static/media/project2.2326d678d75159b1bf65.jpg",
-    "static/media/project1.jpg": "/Portfolio2025Web/static/media/project1.3bd1f91ebddb1c09882c.jpg",
-    "static/media/project4.jpg": "/Portfolio2025Web/static/media/project4.b038a427cdefb28ab39f.jpg",
-    "static/media/project5.jpg": "/Portfolio2025Web/static/media/project5.19b223fb653930f34923.jpg",
-    "index.html": "/Portfolio2025Web/index.html",
-    "main.299b0182.css.map": "/Portfolio2025Web/static/css/main.299b0182.css.map",
-    "main.6bde4f57.js.map": "/Portfolio2025Web/static/js/main.6bde4f57.js.map",
-    "453.ececc0a5.chunk.js.map": "/Portfolio2025Web/static/js/453.ececc0a5.chunk.js.map"
+    "main.css": "/CodePortfolio/static/css/main.299b0182.css",
+    "main.js": "/CodePortfolio/static/js/main.ef6bc1b7.js",
+    "static/js/453.ececc0a5.chunk.js": "/CodePortfolio/static/js/453.ececc0a5.chunk.js",
+    "static/media/hero-bg.jpg": "/CodePortfolio/static/media/hero-bg.f76f283fb98f4c37cea0.jpg",
+    "static/media/project3.jpg": "/CodePortfolio/static/media/project3.9a45647f3f38c1e7024b.jpg",
+    "static/media/project2.jpg": "/CodePortfolio/static/media/project2.2326d678d75159b1bf65.jpg",
+    "static/media/project1.jpg": "/CodePortfolio/static/media/project1.3bd1f91ebddb1c09882c.jpg",
+    "static/media/project4.jpg": "/CodePortfolio/static/media/project4.b038a427cdefb28ab39f.jpg",
+    "static/media/project5.jpg": "/CodePortfolio/static/media/project5.19b223fb653930f34923.jpg",
+    "index.html": "/CodePortfolio/index.html",
+    "main.299b0182.css.map": "/CodePortfolio/static/css/main.299b0182.css.map",
+    "main.ef6bc1b7.js.map": "/CodePortfolio/static/js/main.ef6bc1b7.js.map",
+    "453.ececc0a5.chunk.js.map": "/CodePortfolio/static/js/453.ececc0a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.299b0182.css",
-    "static/js/main.6bde4f57.js"
+    "static/js/main.ef6bc1b7.js"
   ]
 }
