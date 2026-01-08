@@ -7,15 +7,7 @@ import proj4 from "../assets/project4.jpg";
 import proj5 from "../assets/project5.jpg";
 
 const projects = [
-  {
-    title: "Drip Café",
-    year: "2025",
-    description:
-      "A minimal and cozy coffee shop website designed and built in Webflow, blending smooth scroll animations with handcrafted visual details.",
-    tech: ["Webflow", "Interactions", "UI Design"],
-    img: proj2,
-    link: "https://dripcafe-66ca1f.webflow.io/",
-  },
+ 
   {
     title: "Food Decider",
     year: "2024",
