@@ -11,14 +11,20 @@ const About = () => {
       >
         <h2>ABOUT</h2>
         <p>
-       I combine design intuition with front-end logic to build interfaces. 
+       I approach front-end development from both a design and programming perspective. 
        </p>
        <p>
-       I craft user experiences with a focus on clarity, tone, and subtle interactions. With strong skills in both visual design and coding, I bring concepts to life using HTML, CSS, JavaScript, and React, bridging the gap between aesthetic vision and functional implementation. 
+       I’m comfortable working close to the fundamentals — whether that means
+building interfaces with React, processing and visualizing data in Python,
+or structuring logic in a C# console application.
        </p>
-       <p>
-       I also leverage AI tools to accelerate design workflows, explore creative directions, and enhance problem-solving, integrating the latest technology into every project I take on.
-        </p>
+       <p>Rather than focusing on a single stack, I’m interested in understanding
+how different tools solve different problems, and choosing the right
+level of abstraction for each project.
+         </p>
+      <p>This portfolio highlights my ability to reason through problems,
+work across multiple technologies, and ship complete, working software.
+         </p>
       </motion.div>
     </section>
   );
